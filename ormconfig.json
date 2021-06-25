@@ -2,10 +2,10 @@
   "type": "sqlite",
   "database": "src/database/database.sqlite",
   "migrations": [
-    "src/database/migrations/*{.js,.ts}"
+    "src/database/migrations/*{.js, .ts}"
   ],
   "entities": [
-    "src/entities/*{.js,.ts}"
+    "src/entities/*{.js, .ts}"
   ],
   "cli": {
     "migrationsDir": "src/database/migrations",
