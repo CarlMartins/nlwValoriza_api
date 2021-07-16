@@ -72,5 +72,5 @@ $ yarn dev
     Made by
     <a href="https://github.com/CarlMartins">Carlos Martins</a>
     -
-    <a href="https://www.linkedin.com/in/carlos-alberto-lemos-martins-oliveira-189b291b5/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/CarlosMartinsOliveira/">LinkedIn</a>
 </p>
